@@ -1,0 +1,16 @@
+@font-face{
+    src: url(../fonts/IBMPlexSerif-Bold.ttf);
+    font-family: 'IBMPlexSerif-Bold';
+}
+@font-face{
+    src: url(../fonts/IBMPlexSerif-Regular.ttf);
+    font-family: 'IBMPlexSerif-Regular';
+}
+@font-face{
+    src: url(../fonts/IBMPlexSerif-Thin.ttf);
+    font-family: 'IBMPlexSerif-Thin';
+}
+@font-face{
+    src: url(../fonts/IBMPlexSerif-SemiBold.ttf);
+    font-family: 'IBMPlexSerif-SemiBold';
+}
